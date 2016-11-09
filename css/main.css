@@ -397,7 +397,7 @@ footer li span {
         overflow: auto;
         border: 0;
         text-align: center;
-        border-bottom: 0.7rem solid #BF4156;
+        border-bottom: 0.7rem groove #BF4156;
     }
     
     nav a {
